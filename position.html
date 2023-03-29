@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<style>
+    .header{
+
+height: 20px;
+        background-color: red;
+        position: fixed;
+        display: flex;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 40px;
+    }
+    .div1, .div2{
+        height: 200px;
+        width: 200px;
+    }
+    .div2{
+        position:relative;
+    }
+    .absolute{
+        position: absolute;
+        background-color: lightpink;
+        height: 50px;
+        width:50px;
+        right: 10px;
+        bottom: 10px;
+        z-index: 1;
+
+    }
+</style>
+<html>
+  <head>
+<title>Position Practice</title>
+</head>  
+<body style="height:3000px">
+    <div class="header">welcome</div>
+<div style="background-color: pink;" class="div1">div4</div>
+<div  style="background-color: blue;" class="div2">div2<div class="absolute">4pm</div></div>
+
+</body>
+</html>
