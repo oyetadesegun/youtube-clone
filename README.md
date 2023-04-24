@@ -1,7 +1,7 @@
 <h1>YouTube Clone (HTML/CSS)</h1>
 
 <p>This is a basic YouTube clone created using only HTML and CSS. It contains a homepage with a header, sidebar, and video grid. Each video in the grid has a thumbnail, title, and description.</p>
-
+https://oyetadesegun.github.io/youtube-clone/
 <h2>Getting Started</h2>
 
 <p>To get started with this project, simply download the repository and open the <code>index.html</code> file in your web browser.</p>
